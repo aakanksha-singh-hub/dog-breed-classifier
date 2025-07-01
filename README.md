@@ -2,11 +2,9 @@
 
 Classify dog breeds from images using PyTorch models. Includes a Streamlit web app for easy image upload and instant predictions.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dog-breed-classifier-ml.streamlit.app/)
+## 📽️ Demo Video
 
-**[Live Demo](https://dog-breed-classifier-ml.streamlit.app/)**
-
----
+[![Watch the demo](https://img.youtube.com/vi/S8RBoue7LV8/0.jpg)](https://youtu.be/S8RBoue7LV8)
 
 ## Features
 - Upload an image and get the predicted dog breed instantly
